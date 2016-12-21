@@ -3,7 +3,7 @@
     "prompt": [
 	[ "darkgreen", "", "$user" ],
 	[ "darkyellow", "", " $dir" ],
-	[ "", "", " $git_lbracket$gitbranch" ],
+	[ "", "", " $git_lbracket$git_branch" ],
 	[ "red", "", "$git_dirty" ],
 	[ "", "", "$git_rbracket"],
 	[ "white", "", " >" ]
